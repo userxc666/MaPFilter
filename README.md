@@ -1,2 +1,2 @@
 # MaPFilter
-This is a Deep Learing project
+Optimal Bivariate Polynomial Bases for Spatiotemporal Graph Spectral Filtering
